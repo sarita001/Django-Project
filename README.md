@@ -48,7 +48,8 @@ d) ChartJS: For data visualisation
 
 1) Homepage  
 
-![image](https://user-images.githubusercontent.com/102078863/208434977-6fee74d7-722c-455c-8708-fd5d34e56814.png)
+![image](https://user-images.githubusercontent.com/107344181/209092406-4b71a44c-2ab4-458c-a951-06329f1667b2.png)
+
 
 2) Selecting the demo CSV file 
  
@@ -56,5 +57,6 @@ d) ChartJS: For data visualisation
 
 3) After sumbitting  
 
-![final ](https://user-images.githubusercontent.com/102078863/208435974-7aa7fb36-8429-4525-9869-23312352b956.jpg)
+![screencapture-127-0-0-1-8000-hello-2022-12-22-14_06_01](https://user-images.githubusercontent.com/107344181/209092735-0b758a3b-01fd-49a6-884d-7fba31512311.png)
+
 
