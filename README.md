@@ -53,7 +53,7 @@ d) ChartJS: For data visualisation
 
 2) Selecting the demo CSV file 
  
-![image](https://user-images.githubusercontent.com/102078863/208435318-1b20d471-e57a-42ef-8400-83b316936894.png)
+![image](https://user-images.githubusercontent.com/107344181/209093215-c85e1612-dfc6-4bd6-b879-4d6520ec5120.png)
 
 3) After sumbitting  
 
